@@ -23,7 +23,7 @@ My name is Rasul Zabanbar
     var gitlabLogoUrl = "https://raw.githubusercontent.com/Russell-zabanbar/Russell-zabanbar/0a84bc790065b0408d257ae053a1981be5778770/GitLab-Logo.wine.svg";
     var nginxLogoUrl = "https://raw.githubusercontent.com/Russell-zabanbar/Russell-zabanbar/0a84bc790065b0408d257ae053a1981be5778770/Nginx-Logo.wine.svg"
     var djangoLogoUrl = "https://raw.githubusercontent.com/Russell-zabanbar/Russell-zabanbar/0a84bc790065b0408d257ae053a1981be5778770/django-logo.svg"
-    var gitLogoUrl = "https://raw.githubusercontent.com/Russell-zabanbar/Russell-zabanbar/main/git-logo.png"
+    var gitLogoUrl = "https://github.com/Russell-zabanbar/Russell-zabanbar/blob/main/git-logo.png"
   </script>
 
   <!-- استفاده از متغیرها -->
