@@ -3,7 +3,7 @@ hi! My name is Rasul
 
   Backend Developer
 -----------------------------
-*   🖥️  See my portfolio on [linkdin](https://www.linkedin.com/in/rasul-zabanbar-2b8bb5267/)
+*   🖥️  See my portfolio on [linkdin](https://www.linkedin.com/in/rasulza/)
 *   🤝  As a web developer, I am ready to collaborate on interesting projects
 
 ### Skills
